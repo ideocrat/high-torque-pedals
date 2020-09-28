@@ -30,7 +30,7 @@ The High Torque Pedals are a combination of circular pedals with 4 points of pre
 The design of these pedals is simple enough to be built anywhere and generally needs little to no maintenance. The pedals can be built from steel, stainless steel, aluminum, or other materials. The design is highly resilient and highly durable if built well.
 
 # High Torque Pedals - Power delivery
-Although the high torque pedals still deliver power in an alternating form, the do so with a much smaller difference between the maximum and minimum output.
+Although the high torque pedals still deliver power in an alternating form, they do so with a much smaller difference between the maximum and minimum output. This almost constant power delivery ensures that every stroke needs a uniform effort as opposed to regular pedals which need an extra effort to start the pedaling stroke.
 
 # High Torque Pedals - Ergonomics
 The movement of the riders' legs will be reciprocating which is similar to walking up a uniform staircase. The force needed to climb the 1st step is the same for climbing any step along the uniform staircase. This is the main idea behind the High Torque Pedals -and tricycle- which is to make the difficulty of pedaling uniform for all uphill slopes. In that case, what changes from a low to a steep slope is the quantity of pedaling but not its difficulty.

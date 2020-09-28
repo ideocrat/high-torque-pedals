@@ -25,7 +25,9 @@ Why Cycling is Bad for Bone Density and How You Can Improve It:
 https://trainingpeaks.com/blog/why-cycling-is-bad-for-bone-density-and-how-you-can-improve-it/
 
 # High Torque Pedals - General description
-The High Torque Pedals are a combination of circular pedals with 4 points of pressure (instead of 2 for the regular pedals) with reciprocating pedals on top of the circular pedals. The center of rotation of the reciprocating pedals are on top back of the circular pedals. The stroke begins when the circular pedals is at an angle of 35 to 45 degrees from the vertical axis. This makes sure that the stroke always starts with a high pressure force on the pedals. As a result, acceleration is never an issue even in an uphill topography. The movement of the rider's legs are reciprocating (since they stand on the reciprocating pedals) making it easier to pedal while standing. The 
+The High Torque Pedals are a combination of circular pedals with 4 points of pressure (instead of 2 for the regular pedals) with reciprocating pedals on top of the circular pedals. The center of rotation of the reciprocating pedals are on top back of the circular pedals. The stroke begins when the circular pedals is at an angle of 35 to 45 degrees from the vertical axis. This makes sure that the stroke always starts with a high pressure force on the pedals. As a result, acceleration is never an issue even in an uphill topography. The movement of the rider's legs are reciprocating (since they stand on the reciprocating pedals) making it easier to pedal while standing.
+
+The design of these pedals is simple enough to be built anywhere and generally needs little to no maintenance. The pedals can be built from steel, stainless steel, aluminum, or other materials. The design is highly resilient and highly durable if built well.
 
 # High Torque Pedals - Power delivery
 Although the high torque pedals still deliver power in an alternating form, the do so with a much smaller difference between the maximum and minimum output.

@@ -37,3 +37,10 @@ The movement of the riders' legs will be reciprocating which is similar to walki
 
 Since the pedals are reciprocating, they will make pedaling while standing much easier and much more ergonomic.
 
+# High Torque Pedals - Other applications
+Although this documents thoroughly describes the application of the High Torque Pedals to a tricycle as a means of transport and small scale cargo movement, these pedals can be applied to any human powered machine and are encouraged to be used in that context. For example, they can power a drill, circular saw, lathe, potter's wheel, washing machine, pump, blender, mixer, siever, crane, shredder... They can also power a tricycle used for agriculture (push seeder, weed mower, harvest collection, fertilizer distribution, mulch shredder,...) or cargo transport.
+
+These pedals can be fitted to a bicycle but for the reasons explained above, it is preferred to be fitted to a tricycle.
+
+# High Torque Pedals - Open source license (CC0)
+The design is free to use, modify, execute, and distribute (open source). We really appreciate giving us credit when publishing/distributing the design. Do not sell or patent this design. It was published as open source to stay free for everyone.

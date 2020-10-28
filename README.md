@@ -1,3 +1,6 @@
+## This project migrated to notabug.org because GitHub is now owned by Microsoft and they are working against open software and open source knowledge.
+https://notabug.org/Bala_Akhlak/High-Torque-Pedals/
+
 # High Torque Pedals
 High torque pedals built for uphill bicycles/tricycles and other human powered machines. An exploration of the application of the created pedals on a tricycle built for uphills.
 
